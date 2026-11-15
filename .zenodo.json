@@ -1,0 +1,15 @@
+{
+  "title": "Powerlifting percentiles: what 182,030 raw lifters actually total (OpenPowerlifting 2023–2025)",
+  "upload_type": "dataset",
+  "description": "<p>Squat, bench press, deadlift and total percentiles for every raw full-power (SBD) lifter who competed in 2023–2025, derived from the OpenPowerlifting database. Tables by sex and IPF weight class and by 10 lb bodyweight band, plus milestone shares, an age curve (median DOTS by 5-year age group) and year-over-year progression for lifters who competed again. Each lifter is counted once, at their best total in the window. Includes the analysis script.</p><p>Write-up and interactive charts: <a href=\"https://splyt.fit/data/what-lifters-total\">https://splyt.fit/data/what-lifters-total</a>. Source data: OpenPowerlifting (https://www.openpowerlifting.org), public domain.</p>",
+  "creators": [
+    {"name": "Zaidi, Asim", "affiliation": "Splyt"},
+    {"name": "Hussain, Abrar", "affiliation": "Splyt"}
+  ],
+  "license": "cc-zero",
+  "keywords": ["powerlifting", "strength", "percentiles", "OpenPowerlifting", "squat", "bench press", "deadlift", "DOTS", "sports science"],
+  "related_identifiers": [
+    {"identifier": "https://splyt.fit/data/what-lifters-total", "relation": "isDocumentedBy", "resource_type": "publication-other"},
+    {"identifier": "https://www.openpowerlifting.org", "relation": "isDerivedFrom", "resource_type": "dataset"}
+  ]
+}
