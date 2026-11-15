@@ -1,5 +1,7 @@
 # Powerlifting percentiles: what 182,030 raw lifters actually total
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24250507.svg)](https://doi.org/10.5281/zenodo.24250507)
+
 Squat, bench press, deadlift and total percentiles for every raw full-power (SBD) lifter who competed in 2023–2025, from the [OpenPowerlifting](https://www.openpowerlifting.org) database. The tables are broken down by IPF weight class and by 10 lb bodyweight band. There are also milestone shares, an age curve and year-over-year progression.
 
 Interactive charts and the full write-up: **[splyt.fit/data/what-lifters-total](https://splyt.fit/data/what-lifters-total)**
@@ -52,3 +54,7 @@ python3 scripts/analyze.py openpowerlifting-*/openpowerlifting-*.csv data/summar
 - **Code:** MIT.
 
 Made by [Splyt](https://splyt.fit), a workout tracker for iPhone and Apple Watch. For individual strength tables by bodyweight, see [Splyt's strength standards](https://splyt.fit/strength-standards).
+
+## Cite
+
+Zaidi, A. and Hussain, A. (2026). *Powerlifting percentiles: what 182,030 raw lifters actually total (OpenPowerlifting 2023–2025)* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24250507
